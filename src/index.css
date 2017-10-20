@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-image: url('https://wallpaperstock.net/colors-wallpapers_29340_2560x1600.jpg');
+}
+#button {
+  margin-left: 720px;
+  margin-top: 80px;
+}
+#image {
+  margin: auto;
+  padding: 20px;
+}
