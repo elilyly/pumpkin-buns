@@ -1,8 +1,13 @@
 {
-  "name": "halloween-costume",
+  "name": "pumpkin-buns",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "6.11.3",
+    "npm": "5.5.1"
+  },
   "dependencies": {
+    "express": "4.16.2",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
     "react-router-dom": "^4.2.2",
